@@ -1,0 +1,49 @@
+body {
+  font-family: 'Montserrat';
+  padding: 0;
+  border: 0;
+}
+
+header {
+  background-color: rgb(165, 209, 198);
+  padding: 0px 10px;
+  width: 50%;
+  display: flex;
+  align-items: center;
+}
+
+img {
+  width: 280px;
+  height: 350x;
+  border: 0;
+  padding-left: 80px;
+}
+
+h1 {
+  color: rgb(94, 108, 122);
+}
+
+h2 {
+  color: rgb(94, 108, 122);
+  font-weight: 400;
+}
+
+p {
+  color: black;
+  width: 50%;
+  line-height: 1.5;
+  margin: 15px;
+}
+
+hr {
+  width: 50%;
+  margin: 0;
+}
+
+li {
+  padding: 3px;
+}
+
+#Lencioni {
+  color: rgb(94, 108, 122);
+}
